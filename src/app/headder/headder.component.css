@@ -1,0 +1,8 @@
+.header{
+    background-color: cadetblue;
+    height: 100px;
+    padding-top:20px ;
+}
+.header > span{
+    font-size: 40px;
+}

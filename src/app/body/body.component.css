@@ -1,0 +1,12 @@
+.mcard{
+    width: 150px;
+    border: solid 1px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+}
+.card{
+    margin: 10px;
+}
